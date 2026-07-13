@@ -1,32 +1,48 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563EB&height=120&section=header&text=Robin%20Nayak&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=AI%20%7C%20Full-Stack%20%7C%20Mobile&descSize=16&descAlignY=85&descFontColor=a5c8ff" />
-
-<!-- Animated role typewriter -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=AI+%26+ML+Developer+%F0%9F%A4%96;Full-Stack+Engineer+%E2%9A%99%EF%B8%8F;React+Native+%26+Mobile+Builder+%F0%9F%93%B1;MSc+Artificial+Intelligence+%40+RMIT+%F0%9F%87%A6%F0%9F%87%BA;Open+to+Junior+AI%2FML+Roles+in+Australia" alt="Typing SVG" />
-
-<br/>
-
-<!-- Social links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robin-nayak-399139232)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1e3a5f?style=for-the-badge&logo=githubpages&logoColor=white)](https://robinnayak.github.io/personalPortfolio)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robinnayak86@gmail.com)
-[![npm](https://img.shields.io/badge/npm-reactgraph--ui-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/reactgraph-ui)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=robinnayak&style=flat-square&color=2563EB&label=Profile+Views)
-&nbsp;
-![NEC Licensed](https://img.shields.io/badge/NEC_Licensed_Engineer-Reg._91041-16a34a?style=flat-square)
-&nbsp;
-![Work Rights](https://img.shields.io/badge/AU_Work_Rights-48hrs%2Ffortnight-f59e0b?style=flat-square)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563EB&height=90&section=header" alt="Profile header wave" />
 
 </div>
 
-<br/>
+<table>
+<tr>
+<td width="180" align="center" valign="middle">
+  <img width="145" src="https://github.com/robinnayak.png?size=290" alt="Robin Nayak profile photo" />
+</td>
+<td valign="middle">
 
-> I build AI-powered tools and full-stack products end-to-end — from LLM-integrated backends and REST APIs to deployed mobile apps and open-source developer tooling. Currently commencing a **Master of Artificial Intelligence at RMIT University** (July 2026). Open to Junior AI/ML, MLOps, and Software Engineering roles in Melbourne.
+<h1>Robin Nayak</h1>
+
+<h3>AI | Full-Stack | Mobile</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=2563EB&vCenter=true&width=560&lines=AI+%26+ML+Developer+%F0%9F%A4%96;Full-Stack+Engineer+%E2%9A%99%EF%B8%8F;React+Native+%26+Mobile+Builder+%F0%9F%93%B1;MSc+Artificial+Intelligence+%40+RMIT+%F0%9F%87%A6%F0%9F%87%BA;Open+to+Junior+AI%2FML+Roles+in+Australia" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/robin-nayak-399139232">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://robinnayak.github.io/personalPortfolio">
+  <img src="https://img.shields.io/badge/Portfolio-1e3a5f?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:robinnayak86@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.npmjs.com/package/reactgraph-ui">
+  <img src="https://img.shields.io/badge/npm-reactgraph--ui-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="reactgraph-ui npm package" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=robinnayak&style=flat-square&color=2563EB&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/badge/NEC_Licensed_Engineer-Reg._91041-16a34a?style=flat-square" alt="NEC Licensed Engineer" />
+<img src="https://img.shields.io/badge/AU_Work_Rights-48hrs%2Ffortnight-f59e0b?style=flat-square" alt="AU Work Rights" />
+
+</td>
+</tr>
+</table>
+
+> I build AI-powered tools and full-stack products end-to-end &mdash; from LLM-integrated backends and REST APIs to deployed mobile apps and open-source developer tooling. Currently commencing a **Master of Artificial Intelligence at RMIT University** (July 2026). Open to Junior AI/ML, MLOps, and Software Engineering roles in Melbourne.
 
 ---
 
@@ -72,22 +88,22 @@ Nepal Engineering Council · Reg. No. 91041
 <td width="50%" valign="top">
 
 **Software Developer Intern**
-[Flyseas](https://flyseas.com), Patna · *Remote*
+Flyseas, Patna · *Remote*
 `Jan 2025 – Jun 2025`
 
-- Shipped full-cycle web application features across the complete development lifecycle
-- Diagnosed and resolved production-level bugs, improving application stability
-- Translated business requirements into clean, maintainable technical solutions
+- Shipped full-cycle web features across the complete development lifecycle
+- Diagnosed and resolved production-level bugs, improving stability
+- Translated business requirements into clean, maintainable solutions
 
 </td>
 <td width="50%" valign="top">
 
 **Software Developer Intern**
-[Oreon](https://oreon.com), Manchester · *Remote*
+Oreon, Manchester · *Remote*
 `Dec 2024 – Jan 2025`
 
 - Built responsive front-end pages using ReactJS and component-based patterns
-- Collaborated with design and product teams on client brand specifications
+- Collaborated with design and product teams on brand specifications
 - Delivered UI implementations aligned with usability requirements
 
 </td>
@@ -98,8 +114,6 @@ Nepal Engineering Council · Reg. No. 91041
 
 ## 🤖 AI & ML Work
 
-> *This is the area I'm most actively growing in — combining systems thinking with applied ML.*
-
 ### [DayOneGoal](https://github.com/robinnayak/dayonegoal) — AI Goal-Planning SaaS · *Solo Founder*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -109,9 +123,7 @@ Nepal Engineering Council · Reg. No. 91041
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-Prompt_Engineering-412991?style=flat&logo=openai&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-Deployed-46E3B7?style=flat&logo=render&logoColor=black)
 
-A production-deployed AI SaaS platform targeting the **91% goal-failure rate** problem. Architected **8 AI-powered engines** — Goal Intelligence, Routine Intelligence, Journey Book, Daily Brief, Progress Intelligence Layer, and more — each powered by structured prompt engineering over LLM APIs. Built as a solo founder across the full stack: Django REST backend, Next.js frontend, PostgreSQL, deployed on Render.
-
-[![DayOneGoal Repo](https://github-readme-stats.vercel.app/api/pin/?username=robinnayak&repo=dayonegoal&theme=default&hide_border=true&border_radius=8)](https://github.com/robinnayak/dayonegoal)
+A production-deployed AI SaaS platform targeting the **91% goal-failure rate** problem. Architected **8 AI-powered engines** — Goal Intelligence, Routine Intelligence, Journey Book, Daily Brief, Progress Intelligence Layer, and more — powered by structured prompt engineering over LLM APIs. Full-stack solo build: Django REST backend, Next.js frontend, PostgreSQL, deployed on Render.
 
 ---
 
@@ -126,9 +138,7 @@ A production-deployed AI SaaS platform targeting the **91% goal-failure rate** p
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-Cross-platform mobile app for group trail safety. Real-time GPS tracking, WebSocket-based direct messaging, route planning, packing checklists, and a **three-tier altitude risk model** using live Open-Meteo API weather data. Expo Push Notifications for safety alerts. Production EAS builds for Android.
-
-[![RoamMap Repo](https://github-readme-stats.vercel.app/api/pin/?username=robinnayak&repo=roammap&theme=default&hide_border=true&border_radius=8)](https://github.com/robinnayak/roammap)
+Cross-platform mobile app for group trail safety. Real-time GPS tracking, WebSocket-based messaging, route planning, packing checklists, and a **three-tier altitude risk model** via Open-Meteo API. Expo Push Notifications for safety alerts. Production EAS builds for Android.
 
 ---
 
@@ -141,24 +151,22 @@ Cross-platform mobile app for group trail safety. Real-time GPS tracking, WebSoc
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![npm](https://img.shields.io/badge/Published-npm-CB3837?style=flat&logo=npm&logoColor=white)
 
-Static analysis tool that generates **interactive architecture graphs** for React and Next.js codebases. Identifies circular dependencies, prop drilling, unused components, hooks, and API call chains — all from a single CLI command.
+Generates **interactive architecture graphs** for React and Next.js codebases. Identifies circular dependencies, prop drilling, unused components, hooks, and API call chains from a single CLI command.
 
-[![ReactGraph Repo](https://github-readme-stats.vercel.app/api/pin/?username=robinnayak&repo=ReactGraph&theme=default&hide_border=true&border_radius=8)](https://github.com/robinnayak/ReactGraph)
-
-### [DSAVisual](https://github.com/robinnayak/DSAVisual) — Algorithm Learning Platform · *Google Play Store*
+### [DSAVisual](https://github.com/robinnayak/DSAVisual) — *Google Play Store*
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Google Play](https://img.shields.io/badge/Google_Play-Published-414141?style=flat&logo=googleplay&logoColor=white)
 
-Step-by-step algorithm animations and visual explanations for DSA interview prep. Offline-first, SEO-optimised, distributed across LinkedIn, Reddit, and Dev.to.
+Step-by-step algorithm animations for DSA interview prep. Offline-first, SEO-optimised.
 
 ### [MovieHdNow](https://github.com/robinnayak/moviehdnow) — *Amazon Appstore*
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Amazon](https://img.shields.io/badge/Amazon_Appstore-Published-FF9900?style=flat&logo=amazon&logoColor=white)
 
-Cross-platform mobile app with live API-driven movie data, streaming links, and personalised recommendations.
+Cross-platform mobile app with live API-driven movie data and personalised recommendations.
 
 ---
 
@@ -209,43 +217,16 @@ Cross-platform mobile app with live API-driven movie data, streaming links, and 
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=robinnayak&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&border_radius=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=robinnayak&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&border_radius=8" />
-  <img src="https://github-readme-stats.vercel.app/api?username=robinnayak&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&border_radius=8" height="165" alt="GitHub Stats" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=robinnayak&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=robinnayak&layout=compact&theme=default&hide_border=true&langs_count=8&border_radius=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinnayak&layout=compact&theme=default&hide_border=true&langs_count=8&border_radius=8" height="165" alt="Top Languages" />
-</picture>
+<img src="https://streak-stats.demolab.com?user=robinnayak&theme=default&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&ring=2563EB&fire=f59e0b&currStreakLabel=2563EB" alt="GitHub Streak" />
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=robinnayak&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=robinnayak&theme=default&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" />
-  <img src="https://streak-stats.demolab.com?user=robinnayak&theme=default&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" height="165" alt="GitHub Streak" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=robinnayak&theme=minimal&hide_border=true&area=true&color=2563EB&line=2563EB&point=1e3a5f" alt="Contribution Graph" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=robinnayak&theme=darkhub&no-frame=true&margin-w=6&column=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=robinnayak&theme=flat&no-frame=true&margin-w=6&column=7" />
-    <img src="https://github-profile-trophy.vercel.app/?username=robinnayak&theme=flat&no-frame=true&margin-w=6&column=7" alt="GitHub Trophies" />
-  </picture>
-</div>
-
----
-
-<!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1e3a5f&height=80&section=footer" />
 
 <div align="center">
